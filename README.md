@@ -1,4 +1,4 @@
-# Object Relations Code Challenge - Articles
+# Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated)
 
 For this assignment, you will be working with a Magazine domain.
 
